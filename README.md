@@ -1,21 +1,15 @@
 <h1 align="center">:file_cabinet: Codeleap</h1>
 
 ## :memo: Description
-Company challenge
+Company challenge.
 
 ## :wrench: Technologies used
 * NextJS
-* TailwindCSS
-* Jest
-* JavaScript
-* CSS
-* HTML
+* Styled-components
+* redux
 
 ## :rocket: Running the project
-To run the repository, it is recommended to access:
-```
-https://project-url.com
-```
+To run the repository, it is recommended to clone it
 
 ## :handshake: Team
 <table>
