@@ -1,18 +1,25 @@
 <h1 align="center">:file_cabinet: Codeleap</h1>
 
+<br>
+
 ## :memo: Description
 Company challenge.
+
+<br>
 
 ## :wrench: Technologies used
 * NextJS
 * Styled-components
 * redux
 
-## :rocket: Running the project
-### To run the repository, it is recommended access:
+<br>
+
+## :rocket: Run project
 ```
 https://codeleap-engineering-test-phi.vercel.app
 ```
+
+<br>
 
 ## :handshake: Team
 <table>
@@ -28,5 +35,7 @@ https://codeleap-engineering-test-phi.vercel.app
   </tr>
 </table>
 
-## :dart: Project status
+<br>
+
+## :dart: Status
 Finished
