@@ -16,7 +16,7 @@ Company challenge.
 
 ## :rocket: Run project
 ```
-https://codeleap-engineering-test-phi.vercel.app
+https://fe-codeleap.vercel.app
 ```
 
 <br>
