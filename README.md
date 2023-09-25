@@ -9,7 +9,10 @@ Company challenge.
 * redux
 
 ## :rocket: Running the project
-To run the repository, it is recommended to clone it
+### To run the repository, it is recommended access:
+```
+https://codeleap-engineering-test-phi.vercel.app
+```
 
 ## :handshake: Team
 <table>
